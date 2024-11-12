@@ -57,4 +57,4 @@ def vote(request, question_id):
 
 # New owner view function
 def owner(request):
-    return HttpResponse("Hello, world. 5a788dfc is the polls index.")
+    return HttpResponse("Hello, world. 3105fe61 is the polls index.")
